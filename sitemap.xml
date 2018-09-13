@@ -3,45 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eidoom.github.io/photo-album-site/blogs/aliquam/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://eidoom.github.io/photo-album-site/blogs/</loc>
-    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+    <lastmod>2018-09-13T10:18:04+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eidoom.github.io/photo-album-site/blogs/tempus/</loc>
-    <lastmod>2017-10-31T22:26:13-05:00</lastmod>
+    <loc>https://eidoom.github.io/photo-album-site/blogs/home/</loc>
+    <lastmod>2018-09-13T10:18:04+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eidoom.github.io/photo-album-site/blogs/magna/</loc>
-    <lastmod>2017-10-31T22:26:09-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eidoom.github.io/photo-album-site/blogs/ipsum/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+    <loc>https://eidoom.github.io/photo-album-site/blogs/montenegro/</loc>
+    <lastmod>2018-09-13T10:18:04+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://eidoom.github.io/photo-album-site/categories/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <lastmod>2018-09-13T10:18:04+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://eidoom.github.io/photo-album-site/categories/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <lastmod>2018-09-13T10:18:04+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://eidoom.github.io/photo-album-site/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <lastmod>2018-09-13T10:18:04+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eidoom.github.io/photo-album-site/categories/home/</loc>
+    <lastmod>2018-09-13T10:18:04+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eidoom.github.io/photo-album-site/categories/montenegro/</loc>
+    <lastmod>2018-09-13T10:18:04+01:00</lastmod>
     <priority>0</priority>
   </url>
   
