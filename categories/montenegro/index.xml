@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Montenegro on Family Photographs</title>
-    <link>https://eidoom.github.io/photo-album-site/categories/montenegro/</link>
-    <description>Recent content in Montenegro on Family Photographs</description>
+    <title>Montenegro on Ryan&#39;s photos</title>
+    <link>//eidoom.github.io/photo-album-site/categories/montenegro/</link>
+    <description>Recent content in Montenegro on Ryan&#39;s photos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Sep 2018 10:18:04 +0100</lastBuildDate>
     
-	<atom:link href="https://eidoom.github.io/photo-album-site/categories/montenegro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//eidoom.github.io/photo-album-site/categories/montenegro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Montenegro</title>
-      <link>https://eidoom.github.io/photo-album-site/blogs/montenegro/</link>
+      <link>//eidoom.github.io/photo-album-site/blogs/montenegro/</link>
       <pubDate>Thu, 13 Sep 2018 10:18:04 +0100</pubDate>
       
-      <guid>https://eidoom.github.io/photo-album-site/blogs/montenegro/</guid>
+      <guid>//eidoom.github.io/photo-album-site/blogs/montenegro/</guid>
       <description></description>
     </item>
     

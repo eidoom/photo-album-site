@@ -3,52 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eidoom.github.io/photo-album-site/blogs/</loc>
+    <loc>//eidoom.github.io/photo-album-site/categories/</loc>
+    <lastmod>2019-09-23T17:35:26+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//eidoom.github.io/photo-album-site/categories/</loc>
+    <lastmod>2019-09-23T17:35:26+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//eidoom.github.io/photo-album-site/categories/durham/</loc>
+    <lastmod>2019-09-23T17:35:26+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//eidoom.github.io/photo-album-site/blogs/durham/</loc>
+    <lastmod>2019-09-23T17:35:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//eidoom.github.io/photo-album-site/</loc>
+    <lastmod>2019-09-23T17:35:26+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//eidoom.github.io/photo-album-site/blogs/</loc>
     <lastmod>2018-09-13T10:18:04+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eidoom.github.io/photo-album-site/blogs/home/</loc>
-    <lastmod>2018-09-13T10:18:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eidoom.github.io/photo-album-site/blogs/montenegro/</loc>
-    <lastmod>2018-09-13T10:18:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eidoom.github.io/photo-album-site/categories/</loc>
+    <loc>//eidoom.github.io/photo-album-site/categories/home/</loc>
     <lastmod>2018-09-13T10:18:04+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://eidoom.github.io/photo-album-site/categories/</loc>
+    <loc>//eidoom.github.io/photo-album-site/blogs/home/</loc>
+    <lastmod>2018-09-13T10:18:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//eidoom.github.io/photo-album-site/categories/montenegro/</loc>
     <lastmod>2018-09-13T10:18:04+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://eidoom.github.io/photo-album-site/</loc>
+    <loc>//eidoom.github.io/photo-album-site/blogs/montenegro/</loc>
     <lastmod>2018-09-13T10:18:04+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://eidoom.github.io/photo-album-site/categories/home/</loc>
-    <lastmod>2018-09-13T10:18:04+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eidoom.github.io/photo-album-site/categories/montenegro/</loc>
-    <lastmod>2018-09-13T10:18:04+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eidoom.github.io/photo-album-site/tags/</loc>
+    <loc>//eidoom.github.io/photo-album-site/tags/</loc>
     <priority>0</priority>
   </url>
   

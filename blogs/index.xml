@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All albums on Family Photographs</title>
-    <link>https://eidoom.github.io/photo-album-site/blogs/</link>
-    <description>Recent content in All albums on Family Photographs</description>
+    <title>All albums on Ryan&#39;s photos</title>
+    <link>//eidoom.github.io/photo-album-site/blogs/</link>
+    <description>Recent content in All albums on Ryan&#39;s photos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Sep 2018 10:18:04 +0100</lastBuildDate>
     
-	<atom:link href="https://eidoom.github.io/photo-album-site/blogs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//eidoom.github.io/photo-album-site/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Durham</title>
+      <link>//eidoom.github.io/photo-album-site/blogs/durham/</link>
+      <pubDate>Mon, 23 Sep 2019 17:35:26 +0100</pubDate>
+      
+      <guid>//eidoom.github.io/photo-album-site/blogs/durham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Home</title>
-      <link>https://eidoom.github.io/photo-album-site/blogs/home/</link>
+      <link>//eidoom.github.io/photo-album-site/blogs/home/</link>
       <pubDate>Thu, 13 Sep 2018 10:18:04 +0100</pubDate>
       
-      <guid>https://eidoom.github.io/photo-album-site/blogs/home/</guid>
+      <guid>//eidoom.github.io/photo-album-site/blogs/home/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Montenegro</title>
-      <link>https://eidoom.github.io/photo-album-site/blogs/montenegro/</link>
+      <link>//eidoom.github.io/photo-album-site/blogs/montenegro/</link>
       <pubDate>Thu, 13 Sep 2018 10:18:04 +0100</pubDate>
       
-      <guid>https://eidoom.github.io/photo-album-site/blogs/montenegro/</guid>
+      <guid>//eidoom.github.io/photo-album-site/blogs/montenegro/</guid>
       <description></description>
     </item>
     
