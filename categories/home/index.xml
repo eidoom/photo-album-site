@@ -6,10 +6,19 @@
     <description>Recent content in Home on Ryan&#39;s photos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Sep 2018 10:18:04 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2019 16:41:26 +0100</lastBuildDate>
     
 	<atom:link href="//eidoom.github.io/photo-album-site/categories/home/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>home</title>
+      <link>//eidoom.github.io/photo-album-site/blogs/home/home/</link>
+      <pubDate>Tue, 24 Sep 2019 16:41:26 +0100</pubDate>
+      
+      <guid>//eidoom.github.io/photo-album-site/blogs/home/home/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Home</title>
