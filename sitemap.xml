@@ -5,19 +5,11 @@
   <url>
     <loc>//eidoom.github.io/photo-album-site/categories/</loc>
     <lastmod>2019-09-26T17:21:34+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//eidoom.github.io/photo-album-site/categories/</loc>
-    <lastmod>2019-09-26T17:21:34+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//eidoom.github.io/photo-album-site/categories/img_20181118_122150/</loc>
     <lastmod>2019-09-26T17:21:34+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -28,7 +20,6 @@
   <url>
     <loc>//eidoom.github.io/photo-album-site/categories/img_20181118_151756/</loc>
     <lastmod>2019-09-26T17:21:34+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -39,7 +30,6 @@
   <url>
     <loc>//eidoom.github.io/photo-album-site/categories/img_20181118_152840/</loc>
     <lastmod>2019-09-26T17:21:34+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -50,7 +40,6 @@
   <url>
     <loc>//eidoom.github.io/photo-album-site/categories/img_20190613_192858/</loc>
     <lastmod>2019-09-26T17:21:34+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -61,7 +50,6 @@
   <url>
     <loc>//eidoom.github.io/photo-album-site/categories/img_20190613_192915/</loc>
     <lastmod>2019-09-26T17:21:34+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -72,7 +60,6 @@
   <url>
     <loc>//eidoom.github.io/photo-album-site/categories/img_20190613_193438/</loc>
     <lastmod>2019-09-26T17:21:34+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -83,25 +70,11 @@
   <url>
     <loc>//eidoom.github.io/photo-album-site/</loc>
     <lastmod>2019-09-26T17:21:34+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//eidoom.github.io/photo-album-site/categories/mne-cat-full/</loc>
     <lastmod>2019-09-24T16:41:32+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//eidoom.github.io/photo-album-site/categories/mne-pano/</loc>
-    <lastmod>2019-09-24T16:41:32+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//eidoom.github.io/photo-album-site/categories/montenegro/</loc>
-    <lastmod>2019-09-24T16:41:32+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -110,7 +83,17 @@
   </url>
   
   <url>
+    <loc>//eidoom.github.io/photo-album-site/categories/mne-pano/</loc>
+    <lastmod>2019-09-24T16:41:32+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//eidoom.github.io/photo-album-site/blogs/montenegro/mne-pano/</loc>
+    <lastmod>2019-09-24T16:41:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//eidoom.github.io/photo-album-site/categories/montenegro/</loc>
     <lastmod>2019-09-24T16:41:32+01:00</lastmod>
   </url>
   
@@ -122,29 +105,15 @@
   <url>
     <loc>//eidoom.github.io/photo-album-site/categories/apples1/</loc>
     <lastmod>2019-09-24T16:41:26+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//eidoom.github.io/photo-album-site/categories/apples2/</loc>
-    <lastmod>2019-09-24T16:41:26+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//eidoom.github.io/photo-album-site/categories/apples3/</loc>
-    <lastmod>2019-09-24T16:41:26+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//eidoom.github.io/photo-album-site/categories/home/</loc>
-    <lastmod>2019-09-24T16:41:26+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//eidoom.github.io/photo-album-site/blogs/home/apples1/</loc>
+    <lastmod>2019-09-24T16:41:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//eidoom.github.io/photo-album-site/categories/apples2/</loc>
     <lastmod>2019-09-24T16:41:26+01:00</lastmod>
   </url>
   
@@ -154,7 +123,17 @@
   </url>
   
   <url>
+    <loc>//eidoom.github.io/photo-album-site/categories/apples3/</loc>
+    <lastmod>2019-09-24T16:41:26+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//eidoom.github.io/photo-album-site/blogs/home/apples3/</loc>
+    <lastmod>2019-09-24T16:41:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//eidoom.github.io/photo-album-site/categories/home/</loc>
     <lastmod>2019-09-24T16:41:26+01:00</lastmod>
   </url>
   
@@ -166,7 +145,6 @@
   <url>
     <loc>//eidoom.github.io/photo-album-site/categories/img_20190613_194142-edit/</loc>
     <lastmod>2019-09-24T16:29:34+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -177,7 +155,6 @@
   <url>
     <loc>//eidoom.github.io/photo-album-site/categories/img_20190917_095148-edit/</loc>
     <lastmod>2019-09-24T16:29:34+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -188,7 +165,6 @@
   <url>
     <loc>//eidoom.github.io/photo-album-site/categories/img_20190917_095412-edit/</loc>
     <lastmod>2019-09-24T16:29:34+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -199,7 +175,6 @@
   <url>
     <loc>//eidoom.github.io/photo-album-site/categories/durham/</loc>
     <lastmod>2019-09-24T14:18:02+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -224,7 +199,6 @@
   
   <url>
     <loc>//eidoom.github.io/photo-album-site/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
